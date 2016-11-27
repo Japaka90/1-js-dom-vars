@@ -1,4 +1,4 @@
-//'use strict';
+'use strict';
 
 function initializeClock(time, option) {
     var clock = document.querySelector('.clock');
